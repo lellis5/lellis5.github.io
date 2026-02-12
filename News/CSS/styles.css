@@ -1,0 +1,38 @@
+button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+}
+
+
+a{
+    margin-left: 150px;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bolder;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.left{
+    float:left;
+    width:30%;
+}
+.middle{
+    float:left;
+    width:40%;
+}
+.right{
+    float: right;
+    width:30%;
+    }
+    
