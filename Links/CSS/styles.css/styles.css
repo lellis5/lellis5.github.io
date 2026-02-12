@@ -1,0 +1,32 @@
+div{
+    background-color: blueviolet;
+    width: 100%;
+    float:right;
+}
+div div {
+    background-color:indianred;
+    width: 45%;
+    padding: 2.5%;
+    
+}
+
+div div div {
+    float: center;
+    
+}
+.picdec{
+    width: 50%;
+}
+a{
+    background-color:aqua;
+    padding: 0px 125px;
+}
+a:hover{
+    background-color: aquamarine;
+} 
+li{
+ float:right;
+}
+p{
+ text-align:right;
+}
