@@ -1,0 +1,32 @@
+img{
+    width:50%;
+    
+}
+main{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+section{
+    background-color: rgb(176, 52, 52);
+
+}
+p {
+    width: 46% ;
+    float:left ;
+    padding:0px 2%;
+    text-align: left;
+}
+nav a{
+padding: 0 50px;
+background-color: yellow;
+}
+nav a:hover {
+    background-color:cadetblue
+}
+nav{
+    margin-bottom:50px;
+}
