@@ -1,0 +1,30 @@
+h1{
+text-align: center;
+ }
+section.top{
+    background-color:green;
+    height: 700px;
+}
+section.top image{
+    float:right;
+}
+ div.diagonal{
+width:0;
+height:0;
+border-right: 100vw solid transparent;
+border-bottom: 13.9vw solid #fff;
+margin-top:-13.9vw;
+ }
+ section.bottom{
+    background-color: #fff;
+ }
+ section.bottom h2{
+    margin-top: -13.9vw;
+ }
+ h1.center{
+    margin: 0;
+    position: absolute;
+    font-size: 15em;
+    top: 35vh ;
+    left:40vw;
+ }

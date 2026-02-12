@@ -1,0 +1,38 @@
+img{
+    width:50%;
+    float:left;
+    padding-right:50px
+}
+main{
+    width: 60%;
+    margin: auto;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+section{
+    background-color: rgb(176, 52, 52);
+
+}
+p {
+    text-align: center;
+}
+nav a{
+padding: 0 20px;
+background-color:darkorchid;
+color:burlywood
+}
+nav a:hover {
+    background-color:black
+}
+nav{
+    margin-bottom:50px;
+}
+body{
+    background-color: darkcyan;
+    }
+    div{
+        padding:150px
+
+    }
