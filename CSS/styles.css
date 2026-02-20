@@ -1,13 +1,12 @@
-
-button{
-    margin-right:30px;
-    margin-top:50px ;
-    margin-left:40px;
-    width:750px;
-    height:150px;
-    float:left;
+a.btn{
+    width: 400px;
+    height: 150px;
+    border-radius: 30px;
+    background-color: aquamarine;
+    display: block;  
+    float:right;
 }
-h1{
-    text-align:center;
+a :hover{
+    transform: scale(1.023) ;
+    box-shadow: 3px 6px 6px 0 rgba(0,0,0,.11);
 }
-
